@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6026'
     url: http://www.gutenberg.org/2009/agents/6026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15379#Robert-MoffatThe-Missionary-Hero-of-Kuruman
 gutenberg_issued: '2005-03-16'
 gutenberg_type: Text
 identifiers:
